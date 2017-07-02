@@ -1,0 +1,11 @@
+profile/traverse_duty_ratio/0.0.txt 39 20
+profile/traverse_duty_ratio/0.1.txt 29 15
+profile/traverse_duty_ratio/0.2.txt 19 20
+profile/traverse_duty_ratio/0.3.txt 9 13
+profile/traverse_duty_ratio/0.4.txt 1 11
+profile/traverse_duty_ratio/0.5.txt 1 43239
+profile/traverse_duty_ratio/0.6.txt 1 63423
+profile/traverse_duty_ratio/0.7.txt 1 87815
+profile/traverse_duty_ratio/0.8.txt 1 108723
+profile/traverse_duty_ratio/0.9.txt 1 114159
+profile/traverse_duty_ratio/1.0.txt 1 118916

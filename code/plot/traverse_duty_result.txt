@@ -1,0 +1,11 @@
+profile/traverse_duty_ratio/0.0.txt 1.651226
+profile/traverse_duty_ratio/0.1.txt 1.40836
+profile/traverse_duty_ratio/0.2.txt 1.226231
+profile/traverse_duty_ratio/0.3.txt 1.084549
+profile/traverse_duty_ratio/0.4.txt 0.991299
+profile/traverse_duty_ratio/0.5.txt 0.901187
+profile/traverse_duty_ratio/0.6.txt 0.826091
+profile/traverse_duty_ratio/0.7.txt 0.762547
+profile/traverse_duty_ratio/0.8.txt 0.708079
+profile/traverse_duty_ratio/0.9.txt 0.660879
+profile/traverse_duty_ratio/1.0.txt 0.61958

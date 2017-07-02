@@ -1,0 +1,10 @@
+profile/traverse_low/0.75.txt 11 24
+profile/traverse_low/1.5.txt 5 15
+profile/traverse_low/2.25.txt 1 18569
+profile/traverse_low/3.0.txt 1 43239
+profile/traverse_low/3.75.txt 1 80965
+profile/traverse_low/4.5.txt 1 91329
+profile/traverse_low/5.25.txt 1 125647
+profile/traverse_low/6.0.txt 1 135903
+profile/traverse_low/6.75.txt 1 128994
+profile/traverse_low/7.5.txt 1 122752

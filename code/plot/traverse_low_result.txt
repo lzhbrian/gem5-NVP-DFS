@@ -1,0 +1,10 @@
+profile/traverse_low/0.75.txt 1.111136
+profile/traverse_low/1.5.txt 1.035443
+profile/traverse_low/2.25.txt 0.96712
+profile/traverse_low/3.0.txt 0.901187
+profile/traverse_low/3.75.txt 0.843666
+profile/traverse_low/4.5.txt 0.793047
+profile/traverse_low/5.25.txt 0.748162
+profile/traverse_low/6.0.txt 0.708086
+profile/traverse_low/6.75.txt 0.672083
+profile/traverse_low/7.5.txt 0.639564
